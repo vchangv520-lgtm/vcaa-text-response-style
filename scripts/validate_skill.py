@@ -5,13 +5,13 @@ from __future__ import annotations
 
 import re
 import sys
+import unicodedata
 from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
 SKILL = ROOT / "SKILL.md"
 TEXT_SUFFIXES = {".md", ".yaml", ".yml", ".py"}
-HAN_RE = re.compile(r"[\u3400-\u4DBF\u4E00-\u9FFF]")
 LINK_RE = re.compile(r"\[[^\]]+\]\(([^)]+)\)")
 NAME_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 
@@ -66,10 +66,18 @@ def validate_frontmatter() -> None:
 def validate_english_only(files: list[Path]) -> None:
     for path in files:
         text = path.read_text(encoding="utf-8")
-        match = HAN_RE.search(text)
-        if match:
-            line = text.count("\n", 0, match.start()) + 1
-            fail(f"non-English CJK character found in {path.relative_to(ROOT)}:{line}")
+        for index, character in enumerate(text):
+            if (
+                ord(character) > 127
+                and character.isalpha()
+                and "LATIN" not in unicodedata.name(character, "")
+            ):
+                line = text.count("\n", 0, index) + 1
+                codepoint = f"U+{ord(character):04X}"
+                fail(
+                    "non-English alphabetic character "
+                    f"{codepoint} found in {path.relative_to(ROOT)}:{line}"
+                )
 
 
 def validate_no_placeholders(files: list[Path]) -> None:

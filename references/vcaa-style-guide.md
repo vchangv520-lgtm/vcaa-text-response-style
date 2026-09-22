@@ -4,7 +4,7 @@
 
 This guide was distilled on 22 September 2026 from official VCAA English and EAL external assessment reports for 2023, 2024 and 2025, with the 2026 NHT EAL report used as a later consistency check.
 
-The latest completed local English/EAL pair is 2025. The 2026 Victorian main examinations had not yet occurred, so there was no 2026 English/EAL pair to compare. The 2025 EAL report contains a complete high-scoring *Sunset Boulevard* response to the loss-of-control topic. The 2025 English report contains cross-text high-scoring excerpts and specific advice about both *Sunset Boulevard* topics; it does not contain a second complete response to that same topic. In 2023, the English and EAL *Sunset Boulevard* topics tested parallel ideas but used different wording. Do not claim that VCAA published two complete same-topic *Sunset Boulevard* essays.
+The latest completed local English/EAL pair is 2025. The 2026 Victorian main examinations had not yet occurred, so there was no 2026 English/EAL pair to compare. The 2025 EAL report contains a complete high-scoring *Sunset Boulevard* response to the loss-of-control topic. The 2025 English report contains cross-text high-scoring excerpts and discusses the *Sunset Boulevard* victims-and-villains topic, but it does not contain a second complete response to the loss-of-control topic. In 2023, the English and EAL *Sunset Boulevard* topics tested parallel ideas but used different wording. Do not claim that VCAA published two complete same-topic *Sunset Boulevard* essays.
 
 VCAA states that reproduced student work is not corrected for grammar, spelling or factual information and that samples are not automatically exemplary or complete. Treat the reports as evidence of rewarded decisions, not prose to copy.
 

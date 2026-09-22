@@ -25,7 +25,7 @@ Use only when relevant and preferably verify against the film or screenplay befo
 - “The audience left twenty years ago.”
 - “No one leaves a star.”
 - “I don't want to be a reader all my life. I want to write.”
-- “All cardboard, all hollow, all phoney. All done with mirrors.”
+- “All cardboard, all hollow, all phoney, all done with mirrors.”
 - “only the price turned out to be a little high”
 - “All right, Mr. DeMille, I'm ready for my close-up.”
 

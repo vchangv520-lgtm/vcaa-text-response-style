@@ -80,7 +80,7 @@ Do not deliberately add grammar mistakes. A human exam voice comes from proporti
 ## Final checks
 
 - Every paragraph addresses the full topic, including its modifiers and absolutes.
-- The three arguments are genuinely different and form a progression.
+- In a full essay or plan, the arguments are genuinely different and form a progression; in a standalone paragraph, the paragraph has one distinct conceptual job.
 - Evidence is recognisable, verifiable and drawn from more than one part of the text.
 - Every named technique is followed by an explanation of the meaning it creates.
 - No paragraph is mainly plot summary, character biography or context dump.

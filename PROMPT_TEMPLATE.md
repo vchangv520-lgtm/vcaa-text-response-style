@@ -22,15 +22,22 @@ Teacher feedback or evidence I must use:
 
 Write in the observable style of high-scoring VCAA student work, not in polished university prose and not in generic AI essay language. Keep the voice plausible for a capable Year 12 student writing under timed conditions. Do not copy wording from VCAA samples and do not deliberately add grammatical mistakes.
 
+Respect the selected task mode:
+
+- PLAN: give a precise contention, three concept-led arguments, and suitable evidence clusters. Do not draft the essay unless asked.
+- FULL ESSAY: write a complete introduction, body and conclusion.
+- REVISE MY DRAFT: preserve sound ideas and my demonstrated voice, then improve only the supplied draft or requested scope.
+- WRITE ONE BODY PARAGRAPH: give that paragraph one clear conceptual job and return one developed paragraph only.
+
 Before drafting, silently do the following:
 
 1. Identify every concept, relationship, modifier, absolute term and command word in the topic. Do not replace the set topic with a familiar theme.
 2. Decide the precise degree of agreement. Write a one-sentence contention that answers the whole topic.
-3. Plan three concept-led arguments that establish, deepen and, where the film supports it, qualify the contention. Do not organise one paragraph per character.
+3. For a plan or full essay, design three concept-led arguments that establish, deepen and, where the film supports it, qualify the contention. For one body paragraph, define its single conceptual job within the likely wider argument. Do not organise by character unless the topic genuinely requires it.
 4. Select major, widely recognised and verifiable evidence. Most evidence should come from central scenes, recurring motifs, major relationships or the film's broad structure. Prefer ordinary reliable evidence to hidden or speculative details.
-5. Draw evidence from different parts of the film. Usually connect two scenes within each body paragraph.
+5. Draw evidence from different parts of the film. Usually connect two scenes within each body paragraph, including a requested standalone paragraph.
 
-For the introduction:
+For the introduction of a full essay:
 
 - Use about three or four sentences.
 - Identify the film and director once, then answer the exact topic immediately.
@@ -47,7 +54,7 @@ For each body paragraph:
 - Connect the evidence clusters instead of listing examples.
 - End by extending or qualifying the contention, not by mechanically repeating the topic sentence.
 
-For the conclusion:
+For the conclusion of a full essay:
 
 - Use two or three sentences.
 - Resolve the degree, tension or relationship in the topic and state Wilder's final judgement.
@@ -90,7 +97,7 @@ Before returning the response, perform a silent humanising check:
 - quotations and scene details have been verified or safely paraphrased
 - the final voice remains formal, natural and plausible under timed Year 12 conditions
 
-Return only [THE ESSAY / THE PLAN / THE REVISED PARAGRAPH] unless I ask for commentary.
+Return only the requested form: the plan, full essay, revised draft, or single body paragraph. Add commentary only if I ask for it.
 ```
 
 Core principle: combine the conceptual progression and topic awareness rewarded in English responses with the direct expression and reliable evidence rewarded in EAL responses.
