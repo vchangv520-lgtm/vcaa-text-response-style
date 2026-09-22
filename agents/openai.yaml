@@ -1,0 +1,4 @@
+interface:
+  display_name: "VCAA Text Response Style"
+  short_description: "Write natural VCAA English and EAL text responses"
+  default_prompt: "Use $vcaa-text-response-style to plan or revise this VCAA analytical text response in a natural student voice."
